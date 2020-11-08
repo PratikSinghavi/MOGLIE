@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MOGLIE (Movie Offer Getter & Limber Information Emailer)
 As a frequent moviegoer myself, this is an attempt to get great offers and discounts on the next screening of your favourite movie!
 
