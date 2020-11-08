@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MOGLIE (Movie Offer Getter & Limber Information Emailer)
 As a frequent moviegoer myself, this is an attempt to get great offers and discounts on the next screening of your favourite movie!
 
@@ -55,3 +56,8 @@ Note -
 * To see the html completely, the src property will have to be modified to point to the correct images in the html document.
 * **'/demo'** contains the complete demonstration of the code execution called **Demo.mov**.
 * The above directory also includes a mail sample (for a different bank).
+=======
+# [MOGLIE (Movie Offer Getter & Limber Information Emailer)](https://github.com/PratikSinghavi/MOGLIE/tree/main/MOGLIE)
+* MOGLIE is an project designed to gather movie offers automatically for avid moviegoers.
+* It automates the process of gathering deals from the famous 'bookmyshow' website using selenium and Firefox webdriver and sends customized deals to the user via email.
+>>>>>>> 157541933259e123d3f48d2c531291899757d60d
